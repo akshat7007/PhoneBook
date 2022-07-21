@@ -1,0 +1,20 @@
+.card{
+  
+  background-color: rgb(194, 193, 193);
+  border-radius: 30px;
+  padding: 0px 0px 0px 22px;
+  margin: 2rem;
+  width: 400px;
+  height: 100px;
+}
+p.card-text {
+  text-align: -webkit-center;
+}
+img.card-img {
+  border-radius: 37px;
+  height: 4rem;
+  margin-top: -75px;
+}
+.card {
+  color: #075a66;
+}
